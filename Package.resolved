@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "354dda32d89fc8cd4f5c46487f64957d355f53d8",
+          "version": "5.6.1"
+        }
+      },
+      {
+        "package": "Amway-Base-Utility",
+        "repositoryURL": "https://github.com/VincentChew888/Amway-Base-Utility.git",
+        "state": {
+          "branch": "main",
+          "revision": "718a92560258d2f85f37903a137d0d3cbc55498b",
+          "version": null
+        }
+      },
+      {
+        "package": "CommonInteractions",
+        "repositoryURL": "https://github.com/VincentChew888/CommonInteractions.git",
+        "state": {
+          "branch": "main",
+          "revision": "0e6629317c70f88b73b1db90f1d04e20b14e645f",
+          "version": null
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "2e63d0061da449ad0ed130768d05dceb1496de44",
+          "version": "5.12.5"
+        }
+      },
+      {
+        "package": "SDWebImageSwiftUI",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+        "state": {
+          "branch": null,
+          "revision": "cd8625b7cf11a97698e180d28bb7d5d357196678",
+          "version": "2.0.2"
+        }
+      },
+      {
+        "package": "SwiftUI-Shimmer",
+        "repositoryURL": "https://github.com/markiv/SwiftUI-Shimmer.git",
+        "state": {
+          "branch": "main",
+          "revision": "61411771350a5a4e96666a8a202ae4b2be327a2b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
