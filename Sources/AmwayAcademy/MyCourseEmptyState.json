@@ -1,0 +1,52 @@
+{
+    "CoursesEmptyState" : [
+        {
+           "id" : 0,
+           "courseImageURL":  "NoRequiredCourses",
+           "courseTitle" : "txtNoCoursesRequired",
+           "courseDescription":  "txtNoCoursesRequiredDescription",
+           "courseType": "Required",
+           "coursesButtonTitle": "txtExplore"
+        },
+        {
+             "id" : 1,
+           "courseImageURL":  "NoInprogressCourses",
+           "courseTitle" : "txtNoCoursesInProgress",
+            "courseDescription":  "txtNoCoursesInProgressDescription",
+            "courseType": "InProgress",
+          "coursesButtonTitle": "txtExplore"
+        },
+        {
+             "id" : 2,
+           "courseImageURL":  "NoSharedCourses",
+           "courseTitle" : "txtNoCoursesShared",
+            "courseDescription":  "txtNoCoursesSharedDescription",
+          "courseType": "Shared",
+          "coursesButtonTitle": "txtExplore"
+        },
+        {
+             "id" : 3,
+           "courseImageURL":  "NoFavoriteCourses",
+           "courseTitle" : "txtNoCoursesFavorites",
+            "courseDescription":  "txtNoCoursesFavoriteDescription",
+          "courseType": "Favorite",
+          "coursesButtonTitle": "txtExplore"
+        },
+        {
+             "id" : 4,
+           "courseImageURL":  "NoDownloadedCourses",
+           "courseTitle" : "txtNoCoursesDownloaded",
+            "courseDescription":  "txtNoCoursesDownloadedDescription",
+            "courseType": "Downloaded",
+          "coursesButtonTitle": "txtExplore"
+        },
+        {
+             "id" : 5,
+           "courseImageURL":  "NoCompletedCourses",
+           "courseTitle" : "txtNoCoursesCompleted",
+            "courseDescription":  "txtNoCoursesCompletedDescription",
+            "courseType": "Completed",
+          "coursesButtonTitle": "txtExplore"
+        }
+    ]
+}
